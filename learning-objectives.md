@@ -21,6 +21,9 @@ By the end of the lesson, participants should know how to (or, if not at least k
 By the end of the lesson, learners should be familiar with and ideally understand the following concepts:
 
  - Makefile
+ - rule
+ - pattern
+ - macro
  - target
  - dependency
  - phony target 
